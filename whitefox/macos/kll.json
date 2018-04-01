@@ -761,12 +761,12 @@
                 ]
             },
             ":0 S015": {
-                "kll": "S0x00f : U0x035;",
+                "kll": "S0x00f : U0x02a;",
                 "result": [
                     [
                         {
                             "type": "USBCode",
-                            "uid": 53
+                            "uid": 42
                         }
                     ]
                 ],
@@ -780,12 +780,12 @@
                 ]
             },
             ":0 S016": {
-                "kll": "S0x010 : U0x049;",
+                "kll": "S0x010 : U0x035;",
                 "result": [
                     [
                         {
                             "type": "USBCode",
-                            "uid": 73
+                            "uid": 53
                         }
                     ]
                 ],
